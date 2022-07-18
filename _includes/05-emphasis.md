@@ -1,0 +1,11 @@
+- **Hard skills**
+  - JavaScript:heavy_check_mark:
+  - HTML, CSS, SCSS :heavy_check_mark:
+  - GIT :heavy_check_mark:
+  - Postman :heavy_check_mark:
+- **Soft skills**
+  - Open-Mindedness :heavy_check_mark:
+  - Fast learner :heavy_check_mark:
+  - Time Management :heavy_check_mark:
+  - Patience :heavy_check_mark:
+  - Empathy :heavy_check_mark:

@@ -1,0 +1,4 @@
+- Learning
+- Running
+- Reading
+- Programming
